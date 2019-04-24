@@ -13,9 +13,9 @@ proxy:
   # 访问 free-ss 时所用代理
   free-ss:
     enable: true
-    host: 103.216.82.211
+    host: 45.76.222.9
     port: 6667
-    socks: true
+    socks: false
 
 
 # driver 路径
