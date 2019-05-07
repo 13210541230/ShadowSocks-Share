@@ -6,16 +6,16 @@ server:
 # 代理配置
 proxy:
   # 访问目标站点所用代理（除 free-ss）
-  enable: true
-  host: 206.189.191.238
-  port: 3128
+  enable: false
+  host: 
+  port: 
 
   # 访问 free-ss 时所用代理
   free-ss:
     enable: true
-    host: 149.56.27.45
+    host: 58.152.237.21
     port: 1080
-    socks: true
+    socks: false
 
 
 # driver 路径
