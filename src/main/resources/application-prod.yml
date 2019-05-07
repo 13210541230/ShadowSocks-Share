@@ -14,7 +14,7 @@ proxy:
   free-ss:
     enable: true
     host: 58.152.237.21
-    port: 1080
+    port: 586
     socks: false
 
 
